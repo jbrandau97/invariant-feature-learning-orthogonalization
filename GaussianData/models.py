@@ -1,3 +1,6 @@
+# Source: https://github.com/mlu355/MetadataNorm
+# Adapted to include Semi-Structured Networks
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
