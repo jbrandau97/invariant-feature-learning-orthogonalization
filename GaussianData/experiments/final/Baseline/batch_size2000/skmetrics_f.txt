@@ -1,0 +1,90 @@
+Report for run 1              precision    recall  f1-score   support
+
+         0.0      0.652     0.651     0.651      1000
+         1.0      0.651     0.652     0.652      1000
+
+    accuracy                          0.651      2000
+   macro avg      0.652     0.651     0.651      2000
+weighted avg      0.652     0.651     0.651      2000
+
+Report for run 2              precision    recall  f1-score   support
+
+         0.0      0.649     0.643     0.646      1000
+         1.0      0.646     0.652     0.649      1000
+
+    accuracy                          0.647      2000
+   macro avg      0.648     0.647     0.647      2000
+weighted avg      0.648     0.647     0.647      2000
+
+Report for run 3              precision    recall  f1-score   support
+
+         0.0      0.670     0.642     0.656      1000
+         1.0      0.656     0.684     0.670      1000
+
+    accuracy                          0.663      2000
+   macro avg      0.663     0.663     0.663      2000
+weighted avg      0.663     0.663     0.663      2000
+
+Report for run 4              precision    recall  f1-score   support
+
+         0.0      0.671     0.655     0.663      1000
+         1.0      0.663     0.679     0.671      1000
+
+    accuracy                          0.667      2000
+   macro avg      0.667     0.667     0.667      2000
+weighted avg      0.667     0.667     0.667      2000
+
+Report for run 5              precision    recall  f1-score   support
+
+         0.0      0.659     0.671     0.665      1000
+         1.0      0.665     0.653     0.659      1000
+
+    accuracy                          0.662      2000
+   macro avg      0.662     0.662     0.662      2000
+weighted avg      0.662     0.662     0.662      2000
+
+Report for run 6              precision    recall  f1-score   support
+
+         0.0      0.652     0.651     0.652      1000
+         1.0      0.652     0.653     0.652      1000
+
+    accuracy                          0.652      2000
+   macro avg      0.652     0.652     0.652      2000
+weighted avg      0.652     0.652     0.652      2000
+
+Report for run 7              precision    recall  f1-score   support
+
+         0.0      0.659     0.654     0.657      1000
+         1.0      0.657     0.662     0.659      1000
+
+    accuracy                          0.658      2000
+   macro avg      0.658     0.658     0.658      2000
+weighted avg      0.658     0.658     0.658      2000
+
+Report for run 8              precision    recall  f1-score   support
+
+         0.0      0.658     0.657     0.657      1000
+         1.0      0.657     0.658     0.658      1000
+
+    accuracy                          0.657      2000
+   macro avg      0.658     0.657     0.657      2000
+weighted avg      0.658     0.657     0.657      2000
+
+Report for run 9              precision    recall  f1-score   support
+
+         0.0      0.658     0.653     0.656      1000
+         1.0      0.656     0.661     0.658      1000
+
+    accuracy                          0.657      2000
+   macro avg      0.657     0.657     0.657      2000
+weighted avg      0.657     0.657     0.657      2000
+
+Report for run 10              precision    recall  f1-score   support
+
+         0.0      0.659     0.650     0.654      1000
+         1.0      0.654     0.663     0.659      1000
+
+    accuracy                          0.656      2000
+   macro avg      0.657     0.657     0.656      2000
+weighted avg      0.657     0.656     0.656      2000
+
