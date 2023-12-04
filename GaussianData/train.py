@@ -1,3 +1,6 @@
+# Source: https://github.com/mlu355/MetadataNorm
+# Adapted to include Semi-Structured Networks
+
 import argparse
 import glob 
 import os
