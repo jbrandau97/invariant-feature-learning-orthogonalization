@@ -1,3 +1,5 @@
+# Source: https://github.com/facebookresearch/InvariantRiskMinimization
+
 # Copyright (c) Facebook, Inc. and its affiliates.
 # All rights reserved.
 #
