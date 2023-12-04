@@ -1,3 +1,5 @@
+# Source: https://github.com/mlu355/MetadataNorm
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
