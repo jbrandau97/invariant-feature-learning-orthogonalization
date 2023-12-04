@@ -39,6 +39,5 @@ orthogonalization.
 -  The primary goal of the thesis is to test a method for invariant feature learning
 based on the orthogonalization proposed for SSNs in [Rügamer, Kolb, and
 Klein (2023)](https://www.tandfonline.com/doi/full/10.1080/00031305.2022.2164054).
--  For this, the method should be implemented the deep learning framework
-Pytorch and tested on a suitable simulated data set, possibly the ColoredMNIST data set used in [Arjovsky et al. (2019)](https://arxiv.org/abs/1907.02893). The results should be visualized in a way that demonstrates the invariance of the learned features, possibly using the methods described in [Simonyan, Vedaldi, and Zisserman (2013)](https://arxiv.org/abs/1312.6034).
+-  For this, the method should be implemented the deep learning framework Pytorch and tested on a suitable simulated data set. The results should be visualized in a way that demonstrates the invariance of the learned features.
 -  A literature review should discuss similar methods that deal with invariant feature learning using context variables. They should be compared to the proposed method theoretically and in benchmark studies using e.g. simulated data sets.
