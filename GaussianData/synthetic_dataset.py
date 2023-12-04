@@ -1,3 +1,5 @@
+# Source: https://github.com/mlu355/MetadataNorm
+
 from torch.utils.data import Dataset, DataLoader
 from torchvision import models, transforms, utils
 
