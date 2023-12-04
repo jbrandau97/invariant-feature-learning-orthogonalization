@@ -1,3 +1,5 @@
+# Source: https://github.com/mlu355/MetadataNorm
+
 import numpy as np
 import torch
 
